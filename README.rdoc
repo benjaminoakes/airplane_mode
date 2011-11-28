@@ -42,3 +42,7 @@ Code (from http://stackoverflow.com/questions/4506019/rails-3-guides-rubyonrails
 * http://stackoverflow.com/questions/2439170/ruby-and-ruby-on-rails-offline-api-documentation
 * http://stackoverflow.com/questions/5752617/rails-guides-offline-documentation
 * http://stackoverflow.com/questions/4506019/rails-3-guides-rubyonrails-org-in-pdf
+
+== License
+
+GPLv2.  See LICENSE for a copy.
