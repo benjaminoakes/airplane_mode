@@ -46,6 +46,14 @@ Code (from http://stackoverflow.com/questions/4506019/rails-3-guides-rubyonrails
 * Top 100 gems (gems, docs, etc -- so it's harder to be stuck without a dependency)
 * Search (of the static HTML -- not sure of approach right now)
 
+== Contributing
+
+Any and all contributions are welcome.  Fork, submit a pull request, and I'll get back to you once I've had time to review the changes.  Thank you for taking time to improve AirplaneMode!
+
+Misc notes:
+
+* Some Minitar docs are at http://raa.ruby-lang.org/project/minitar/
+
 == Related
 
 * http://railsapi.com/
