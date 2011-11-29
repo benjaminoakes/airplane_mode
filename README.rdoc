@@ -6,6 +6,18 @@ Don't waste people's bandwidth by mirroring with +wget+.  AirplaneMode is a coll
 
 AirplaneMode is currently early in development.  If you're interested, please *become* *a* *watcher*!
 
+== Installing
+
+Install as a RubyGem via:
+
+    gem install airplane_mode
+
+Or build manually:
+
+    ./configure
+    rake
+    rake install
+
 == Features
 
 === Planned
