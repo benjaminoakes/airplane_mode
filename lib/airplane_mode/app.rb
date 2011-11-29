@@ -9,6 +9,7 @@ class AirplaneMode::App < Thor
   # TODO method_option :config, :type => :string,  :aliases => %w[-c] # Config file
   def fetch
     say "Fetching documentation..."
+    # Idea: take a configuration of documentation to fetch, defaulting to a common set
   end
 
   desc 'version', 'Print version number'
