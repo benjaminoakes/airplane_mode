@@ -1,2 +1,0 @@
-#!/usr/bin/env bash
-irb -I ../lib -r airplane_mode

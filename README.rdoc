@@ -50,7 +50,11 @@ Code (from http://stackoverflow.com/questions/4506019/rails-3-guides-rubyonrails
 
 Any and all contributions are welcome.  Fork, submit a pull request, and I'll get back to you once I've had time to review the changes.  Thank you for taking time to improve AirplaneMode!
 
-Misc notes:
+=== Opening a Console
+
+    irb -I lib -r airplane_mode
+
+=== Misc Notes
 
 * Some Minitar docs are at http://raa.ruby-lang.org/project/minitar/
 
