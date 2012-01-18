@@ -30,6 +30,7 @@ Or build manually:
 * https://github.com/c42/ruby_primer
 * https://github.com/addyosmani/backbone-fundamentals
 * Offline Rails Guides (from +rails/railties/guides/rails_guides.rb+, or maybe just +rake+ +doc:guides+)
+* https://github.com/37signals/pow/tree/gh-pages
 
 Code (from http://stackoverflow.com/questions/4506019/rails-3-guides-rubyonrails-org-in-pdf):
 
