@@ -27,8 +27,9 @@ Or build manually:
 * Offline Rdocs (via +rdoc+, +yard+, +bdoc+, +gem+ +server+, or something similar)
 * Maybe something from http://railsbrain.com/ ?
 * Offline Rails Docs (anything beyond what the docs for the gem provides?  +rake+ +rails:doc+)
-* Offline Rails Guides (from +rails/railties/guides/rails_guides.rb+, or maybe just +rake+ +doc:guides+)
 * https://github.com/c42/ruby_primer
+* https://github.com/addyosmani/backbone-fundamentals
+* Offline Rails Guides (from +rails/railties/guides/rails_guides.rb+, or maybe just +rake+ +doc:guides+)
 
 Code (from http://stackoverflow.com/questions/4506019/rails-3-guides-rubyonrails-org-in-pdf):
 
