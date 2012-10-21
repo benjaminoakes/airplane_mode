@@ -1,26 +1,20 @@
-= AirplaneMode
+# AirplaneMode
 
 No Internet? No problem! Use AirplaneMode to gather documentation for offline viewing.
 
 Don't waste people's bandwidth by mirroring with +wget+.  AirplaneMode is a collection of server-friendly ways of obtaining offline documentation.
 
-AirplaneMode is currently early in development.  If you're interested, please *become* *a* *watcher*!
+AirplaneMode is currently early in development.  If you're interested, please **become a watcher**!
 
-== Installing
+## Installing
 
 Install as a RubyGem via:
 
     gem install airplane_mode
 
-Or build manually:
+## Features
 
-    ./configure
-    rake
-    rake install
-
-== Features
-
-=== Planned
+### Ideas
 
 * Torrent for common packages
 * Offline Ruby API (from http://ruby-doc.org/downloads/)
@@ -49,19 +43,19 @@ Code (from http://stackoverflow.com/questions/4506019/rails-3-guides-rubyonrails
 * Top 100 gems (gems, docs, etc -- so it's harder to be stuck without a dependency)
 * Search (of the static HTML -- not sure of approach right now)
 
-== Contributing
+## Contributing
 
 Any and all contributions are welcome.  Fork, submit a pull request, and I'll get back to you once I've had time to review the changes.  Thank you for taking time to improve AirplaneMode!
 
-=== Opening a Console
+### Opening a Console
 
     irb -I lib -r airplane_mode
 
-=== Misc Notes
+### Misc Notes
 
 * Some Minitar docs are at http://raa.ruby-lang.org/project/minitar/
 
-== Related
+## Related
 
 * http://railsapi.com/
 * http://jasonseifer.com/2009/02/22/offline-gem-server-rdocs
@@ -71,6 +65,6 @@ Any and all contributions are welcome.  Fork, submit a pull request, and I'll ge
 * http://stackoverflow.com/questions/4506019/rails-3-guides-rubyonrails-org-in-pdf
 * https://github.com/benjaminoakes/public_notes/wiki/Documentation
 
-== License
+## License
 
 GPLv2.  See LICENSE for a copy.
