@@ -1,6 +1,6 @@
 = AirplaneMode
 
-Gather Ruby documentation for offline viewing.
+No Internet? No problem! Use AirplaneMode to gather documentation for offline viewing.
 
 Don't waste people's bandwidth by mirroring with +wget+.  AirplaneMode is a collection of server-friendly ways of obtaining offline documentation.
 
